@@ -1,4 +1,5 @@
 ### Hi there 👋
+![gitartwork](gitartwork.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cijagani)](https://git.io/streak-stats)  ![cijagani's GitHub stats](https://github-readme-stats.vercel.app/api?username=cijagani&theme=buefy&show_icons=true) 
 
